@@ -1,6 +1,6 @@
 # Bayesian-AB-test
 
-# Description 
+## Description 
 Use t test to find out which advertisement is the best\
 Use Bandit algorithm on an Adaptive Server
 
