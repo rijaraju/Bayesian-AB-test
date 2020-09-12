@@ -4,9 +4,10 @@
 Use t test to find out which advertisement is the best
 
 ## Data
-Data is given in "advertisement_click.csv" : advertisement_id - A/B,  action : 1/0 (click/no-click)
+"rand_data_chisq.py" - clicks are randomly generated
+"advrtise_chisq.py" - clicks are loaded from "advertisement_click.csv"
 
-###Chi -Square test 
+
 
 
 
