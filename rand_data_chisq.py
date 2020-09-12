@@ -1,3 +1,5 @@
+# p value for random data generated A/B
+
 import numpy as np
 import matplotlib.pyplot as plt
 from scipy.stats import chi2, chi2_contingency
