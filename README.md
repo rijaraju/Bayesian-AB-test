@@ -1,4 +1,4 @@
-# rijaraju-CTR-AB-test
+# Bayesian-AB-test
 
 # Description 
 Use t test to find out which advertisement is the best\
