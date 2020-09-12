@@ -1,4 +1,4 @@
-# p value for random data generated A/B
+# p value for random generated clicks
 
 import numpy as np
 import matplotlib.pyplot as plt
