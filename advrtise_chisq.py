@@ -30,7 +30,7 @@ def get_p_value(T):
 
 
 # get data
-df = pd.read_csv("C:/gitproj/AB_test/CTR_ttest/advertisement_click.csv")
+df = pd.read_csv("advertisement_click.csv")
 a = df[df["advertisement_id"] == "A"]
 b = df[df["advertisement_id"] == "B"]
 a = a["action"]
