@@ -3,6 +3,6 @@
 # Description 
 Use t test to find out which advertisement is the best
 
-##Data
-The data is given in "advertisement_clicks" : advertisement_id - A/B,  action : 1/0 click/no-click
+## Data
+Data is given in "advertisement_clicks.csv" : advertisement_id - A/B,  action : 1/0 (click/no-click)
 
